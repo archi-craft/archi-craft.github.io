@@ -1,0 +1,1 @@
+# images/chocolat folder
