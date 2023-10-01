@@ -8,4 +8,4 @@ blog, etc.
 The Source Code of website is provided
 
 If you want to print your dream-house,
-mail me there: <mailto:mcsmrnff@gmail.com>
+mail me there: <mcsmrnff@gmail.com>
